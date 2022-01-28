@@ -1,0 +1,30 @@
+/*
+display: flex -> default type row
+flex-
+*/
+.container {
+    
+    align-items: center;
+    flex-direction: column;
+}
+.btn {
+   display: flex;
+   float: right;
+    width: 20%;
+}
+.box {
+    border: 2px solid red;
+    width: 200px;
+    border-radius: 100px;
+    height: 150px;
+    align-items: center;
+    padding: 50px;
+    float: right;
+    text-align: center;
+}
+.test {
+    border: 10px solid blue;
+}
+.row {
+    display: inline
+}
