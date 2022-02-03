@@ -1,0 +1,22 @@
+    TODO-LIST APP
+
+    ADD TODO    -C      == add items to todo list 
+                             
+    SHOWING LIST    -C    === with done and cancel button 
+        
+In this assignment you have to create a TODO application using React.
+User can add items in his/her todo list.
+User can tick the items in the list that he/she has completed.
+User can also remove items from the list.
+Todo must be updated as new items are added, deleted or completed.
+After creating the application, deploy your app in Github pages.
+
+You can refer to the image given below for this assignment.
+
+1- made APP.js file 
+2. MADE INPUT COMPONENT (Add-todo.js) 
+
+props = collect info from parent class
+
+
+
